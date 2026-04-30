@@ -24,6 +24,8 @@ All submissions, including submissions by project members, require review. We us
 
   > **Personal note:** You can configure git to sign off automatically by setting up a commit template or using
   > `git config format.signoff true` (available in newer versions of git). Saves a lot of hassle!
+  >
+  > Another handy tip: add a git alias like `git config --global alias.cs 'commit -s'` so you can just run `git cs -m "message"` every time.
 
 * Full text of the DCO:
 
