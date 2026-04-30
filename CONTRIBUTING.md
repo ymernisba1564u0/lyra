@@ -22,6 +22,9 @@ All submissions, including submissions by project members, require review. We us
   Signed-off-by: Your Name <your@email.com>
   ```
 
+  > **Personal note:** You can configure git to sign off automatically by setting up a commit template or using
+  > `git config format.signoff true` (available in newer versions of git). Saves a lot of hassle!
+
 * Full text of the DCO:
 
   ```
